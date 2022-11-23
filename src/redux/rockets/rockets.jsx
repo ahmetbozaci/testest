@@ -26,6 +26,6 @@ const rocketsReducer = (state = [], action) => {
     default:
       return state;
   }
-};
+};;
 
 export default rocketsReducer;
